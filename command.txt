@@ -1,0 +1,1 @@
+mosquitto_passwd -c /home/mosud/Documents/dev/iot_dev/.mosquitto_passwords imosudi
